@@ -1,0 +1,4 @@
+# is used to comment in .gitignore file
+# * is used to select multiple files eg.
+textFile*.txt
+confedential.txt
